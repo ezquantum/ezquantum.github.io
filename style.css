@@ -22,12 +22,15 @@ div:after {
   }
 }
 #tags {
- top: 30%;
+ margin-top: 30px;
 }
-#tags a {
+#tags a{
     color: white;
     text-decoration: none;
     font-family: Arial;
+    border: 1px solid #fff;
+    padding: 4px;
+    border-radius: 4px;
 }
 #surreal {
   font-size: 18px;
@@ -71,7 +74,7 @@ div:after {
           animation: cheesebottom 500ms infinite ease-in-out;
 }
 
-div#sayhi,div#whoami,div#contactme {
+div#sayhi,div#whoami,div#contactme, div#tags {
     color: white;
     top: 15%;
     left: 0px;
