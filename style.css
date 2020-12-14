@@ -21,6 +21,14 @@ div:after {
             transform: scale(0.8);
   }
 }
+#tags {
+ top: 30%;
+}
+#tags a {
+    color: white;
+    text-decoration: none;
+    font-family: Arial;
+}
 #surreal {
   font-size: 18px;
   width: 20em;
