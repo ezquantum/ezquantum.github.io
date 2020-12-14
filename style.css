@@ -34,6 +34,18 @@ div:after {
     padding: 4px;
     border-radius: 4px;
 }
+#btags {
+ padding-top: 30px;
+ padding-bottom: 20px;
+}
+#btags a{
+    color: white;
+    text-decoration: none;
+    font-family: Arial;
+    border: 1px solid #fff;
+    padding: 4px;
+    border-radius: 4px;
+}
 #surreal {
   font-size: 18px;
   width: 20em;
